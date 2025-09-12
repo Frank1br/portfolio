@@ -1,4 +1,4 @@
-import { GithubIcon } from "lucide-react";
+import { ArrowRight, GithubIcon } from "lucide-react";
 
 const projects = [
      {
@@ -65,12 +65,16 @@ export const ProjectsSection = () => {
                                         </a>
                                     </div>
                                 </div>
-
-
                             </div>
 
                         </div>
                     ))}
+                </div>
+
+                <div className="text-center mt-12">
+                    <a href="https://github.com/Frank1br" className="cosmic-button w-fit flex items-center mx-auto gap-2" target="_blank">
+                        Visite meu GitHub para ver mais projetos! <ArrowRight size={16}/>
+                    </a>
                 </div>
             </div>
         </section>
