@@ -31,7 +31,7 @@ export const AboutSection = () => {
                         </div>
 
                         <div className="flex flex-col sm:flex-col gap-4 pt-4 justify-center">
-                            <a href="https://wa.me/5513981733254?text=Tenho%20interesse%20em%20conhecer%20mais%20sobre%20seu%20trabalho%20e%20disponibilidade%20para%20colaboração" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300" target="_blank">Whatssap</a>
+                            <a href="https://wa.me/5513981733254?text=Tenho%20interesse%20em%20conhecer%20mais%20sobre%20seu%20trabalho%20e%20disponibilidade%20para%20colaboração" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300" target="_blank">WhatsApp</a>
                         </div>
                     </div>
 
