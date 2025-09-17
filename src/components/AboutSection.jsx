@@ -27,7 +27,7 @@ export const AboutSection = () => {
                         </div>
 
                         <div className="flex flex-col sm:flex-col gap-4 pt-4 justify-center">
-                            <a href="https://drive.google.com/file/d/1teTC4XzKihkyM-GMjmksOBBcVtu06icE/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300" target="_blank">Download CV</a>
+                            <a href="https://drive.google.com/file/d/1Vt05TF75Ygx5E9Wtcwo_sY8cdp94Cb8b/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300" target="_blank">Download CV</a>
                         </div>
 
                         <div className="flex flex-col sm:flex-col gap-4 pt-4 justify-center">
